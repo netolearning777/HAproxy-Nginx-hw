@@ -10,7 +10,7 @@
 [Посмотреть конфигурацию haproxy.cfg](haproxy.cfg)
 
 `Скриншоты`
-![Название скриншота 1]()`
+![Название скриншота 1](https://github.com/netolearning777/HAproxy-Nginx-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_23_07_2026_13_40_04.png)
 
 ---
 
