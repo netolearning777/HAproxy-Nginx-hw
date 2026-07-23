@@ -28,10 +28,3 @@
 ![Название скриншота 3](https://github.com/netolearning777/HAproxy-Nginx-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_23_07_2026_14_26_09.png)
 
 ---
-
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
